@@ -1,0 +1,15 @@
+C:\Programming\BinaryOperations\bin\Debug\net6.0\BinaryOperations.exe
+C:\Programming\BinaryOperations\bin\Debug\net6.0\BinaryOperations.deps.json
+C:\Programming\BinaryOperations\bin\Debug\net6.0\BinaryOperations.runtimeconfig.json
+C:\Programming\BinaryOperations\bin\Debug\net6.0\BinaryOperations.dll
+C:\Programming\BinaryOperations\bin\Debug\net6.0\ref\BinaryOperations.dll
+C:\Programming\BinaryOperations\bin\Debug\net6.0\BinaryOperations.pdb
+C:\Programming\BinaryOperations\obj\Debug\net6.0\BinaryOperations.csproj.AssemblyReference.cache
+C:\Programming\BinaryOperations\obj\Debug\net6.0\BinaryOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\BinaryOperations\obj\Debug\net6.0\BinaryOperations.AssemblyInfoInputs.cache
+C:\Programming\BinaryOperations\obj\Debug\net6.0\BinaryOperations.AssemblyInfo.cs
+C:\Programming\BinaryOperations\obj\Debug\net6.0\BinaryOperations.csproj.CoreCompileInputs.cache
+C:\Programming\BinaryOperations\obj\Debug\net6.0\BinaryOperations.dll
+C:\Programming\BinaryOperations\obj\Debug\net6.0\ref\BinaryOperations.dll
+C:\Programming\BinaryOperations\obj\Debug\net6.0\BinaryOperations.pdb
+C:\Programming\BinaryOperations\obj\Debug\net6.0\BinaryOperations.genruntimeconfig.cache
